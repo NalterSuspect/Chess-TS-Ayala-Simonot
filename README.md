@@ -6,3 +6,8 @@ npx tsc
 
 run the project : 
 node dist/index.js
+
+
+sequelize packages:
+npm install --save-dev @types/node @types/validator
+npm install sequelize reflect-metadata sequelize-typescript
